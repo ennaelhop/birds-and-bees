@@ -57,8 +57,8 @@ public class BirdyMover : MonoBehaviour
         mBirdhouse = GameObject.FindGameObjectWithTag("Birdhouse").GetComponent<Birdhouse>();
         SetBirdyState(BirdyState.Flying);
         //audio = GetComponents<AudioSource>();
-        as1 = audio[0];
-        as2 = audio[1];
+        //as1 = audio[0];
+        //as2 = audio[1];
     }
 
     // Update is called once per frame
