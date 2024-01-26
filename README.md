@@ -2,7 +2,7 @@
 A 2D side scroller we made during BCGameJam 2020. It was my first game jam, and my very first hands-on experience with Unity! I was in a group of 5 people and mostly did the programming and main menu for the game.
 
 ## Screenshots
-![Title Screen](https://github.com/ennaelhop/birds-and-bees/blob/master/Images/TitleScreen.png)
+![Title Screen](https://github.com/ennaelhop/birds-and-bees/blob/master/Images/TitleScreen.png = 200x200)
 ![Play Area](https://github.com/ennaelhop/birds-and-bees/blob/master/Images/MainArea.png)
 
 ## Technologies
